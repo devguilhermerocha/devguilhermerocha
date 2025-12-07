@@ -20,10 +20,12 @@
 
 ### - 📈 Sempre aprendendo e evoluindo.
 
+<img></img>
+
 <p2 align="left">
   <img
     title="Nietzshe"
-    src="https://readme-typing-svg.demolab.com?font=Brygada+1918&weight=50&size=100&duration=2500&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=2520&height=250&lines=%22Aquilo+que+n%C3%A3o+me+mata+me+fortalece.%22+;-+Friedrich+Nietzshe">
+    src="https://readme-typing-svg.demolab.com?font=Brygada+1918&weight=50&size=100&duration=2500&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=2520&height=250&lines=%22Aquilo+que+n%C3%A3o+me+mata+me+fortalece.%22+;Friedrich+Nietzshe">
   </img>
 </p2>
 
