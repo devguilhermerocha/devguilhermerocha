@@ -1,8 +1,9 @@
 <div align="center">
     <img
-        title="Guilherme Rocha"
+        width="2520" 
+        height="690" 
         alt="Guilherme Rocha" 
-        src="https://github.com/user-attachments/assets/6040c90e-20a7-4007-8b28-ea8bdbc51425">
+        src="https://github.com/user-attachments/assets/89beded1-ee02-4bb2-aced-752b56c94d20">
 </div>
 
 ---
