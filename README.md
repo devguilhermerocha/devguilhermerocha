@@ -38,5 +38,5 @@
     <img 
         midth=50px
         alt="Linguagem & Tecnolgias"
-        src="https://skillicons.dev/icons?i=python,git,java,discord">
+        src="https://skillicons.dev/icons?i=python,java,git,discord">
 </p3>
