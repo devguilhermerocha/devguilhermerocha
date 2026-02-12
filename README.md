@@ -36,7 +36,7 @@
 
 <p3>
     <img 
-        midth=50px
+        midth=100px
         alt="Linguagem & Tecnolgias"
         src="https://skillicons.dev/icons?i=python,java,git,discord">
 </p3>
